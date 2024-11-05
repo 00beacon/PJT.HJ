@@ -14,12 +14,12 @@ body {
 }
 
 h1 span{
-    align-items: center;
-    color: var(--verde);    
+    color: var(--verde);
+    justify-content: center;    
 }
 
 #dias_restantes{
-    align-items: h1 span;
     color: var(--verde);
-    font-size: 50px;    
+    font-size: 50px;
+    justify-content: center;    
 }

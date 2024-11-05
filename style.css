@@ -21,5 +21,5 @@ h1 span{
 #dias_restantes{
     color: var(--verde);
     font-size: 50px;
-    justify-content: center;    
+    justify-content: center; 
 }

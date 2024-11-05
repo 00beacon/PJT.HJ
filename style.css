@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+.icon{
+    color: #6FFF57;
+}
+
 h1 span{
     color: var(--verde);
     justify-content: center;    
